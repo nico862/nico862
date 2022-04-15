@@ -93,10 +93,13 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
     <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis"></a>
     <a href="#"><img alt="ElasticSearch" src ="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch"></a>
-
+    <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
+    <a href="#"><img alt="DigitalOcean" src ="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"></a>
+    <a href="#"><img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"></a>
+    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
